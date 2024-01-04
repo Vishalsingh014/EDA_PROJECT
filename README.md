@@ -1,5 +1,5 @@
 # EDA_PROJECT
-I developed this project by using Python
+I have developed this project by using Python
 
 DATASET LINK : https://drive.google.com/file/d/1OEcp6AjK9UJkJ09UjyvTLw2EfIlw-tPU/view?usp=drive_link
 
